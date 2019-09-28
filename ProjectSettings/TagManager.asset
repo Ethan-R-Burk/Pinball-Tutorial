@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Panel
+    uniqueID: 1318412349
+    locked: 0
+  - name: Efx
+    uniqueID: 3882474069
+    locked: 0
+  - name: Logo
+    uniqueID: 3979736737
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1738747721
+    locked: 0
+  - name: Top
+    uniqueID: 2482289531
+    locked: 0
+  - name: Cover
+    uniqueID: 372821117
+    locked: 0
